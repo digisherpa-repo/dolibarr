@@ -1,0 +1,6 @@
+# Dolibarr language file - Source file is en_US - sendings
+StatusSendingCanceled=Cancelado
+StatusSendingCanceledShort=Cancelado
+StatusSendingProcessed=Procesada
+StatusSendingProcessedShort=Procesada
+ShipmentCreationIsDoneFromOrder=For the moment, creation of a new shipment is done from the Sales Order record.
